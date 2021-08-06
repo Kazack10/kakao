@@ -1,13 +1,13 @@
 {
   "title": "kakao",
-  "description": "#",
+  "description": "絵描きのようななにか。単行本「なかだしストライク」「発情びーむ」「好き好きマシンガン！」「純情ラブパンチ」発売中/スニーカー文庫「魔王学園の反逆者」挿絵/ＧＡ文庫「転生魔王の大誤算」挿絵/快楽天ビースト隔月/他ラノベ挿絵等",
   "artist": "kakao",
   "author": "kakao",
   "cover": "https://cdn.discordapp.com/attachments/668091570146246657/873088165634793522/cover.jpg",
   "chapters": {
     "1": {
       "title": "Onyx Awakening",
-      "volume": "#",
+      "volume": "0",
       "groups": {
         "Fakku": "/proxy/api/imgur/chapter/IeoadWk/"
       },
@@ -15,7 +15,7 @@
     },
     "2": {
       "title": "Out of the Blue, They Assigned a Rookie Like Me to Be the Editor for a Popular Author",
-      "volume": "#",
+      "volume": "0",
       "groups": {
         "Fakku": "/proxy/api/imgur/chapter/Efl1ZwI/"
       },
@@ -23,7 +23,7 @@
     },
     "3": {
       "title": "Flat Dynamite",
-      "volume": "#",
+      "volume": "0",
       "groups": {
         "Fakku": "/proxy/api/imgur/chapter/Tmps11p/"
       },
@@ -31,7 +31,7 @@
     },
     "4": {
       "title": "Hentai Girl",
-      "volume": "#",
+      "volume": "0",
       "groups": {
         "Fakku": "/proxy/api/imgur/chapter/ILT6JqX/"
       },
@@ -39,7 +39,7 @@
     },
     "5": {
       "title": "Hayase-senpai and Her Alluring Legs",
-      "volume": "#",
+      "volume": "0",
       "groups": {
         "Fakku": "/proxy/api/imgur/chapter/u0q98AE/"
       },
@@ -47,7 +47,7 @@
     },
     "6": {
       "title": "Rumi Surfs Her First Love",
-      "volume": "#",
+      "volume": "0",
       "groups": {
         "Fakku": "/proxy/api/imgur/chapter/OPP2Oxj/"
       },
@@ -55,7 +55,7 @@
     },
     "7": {
       "title": "Focusing on You",
-      "volume": "#",
+      "volume": "0",
       "groups": {
         "Fakku": "/proxy/api/imgur/chapter/EMjwKtt/"
       },
@@ -63,7 +63,7 @@
     },
     "8": {
       "title": "Love Attack No.1",
-      "volume": "#",
+      "volume": "0",
       "groups": {
         "Fakku": "/proxy/api/imgur/chapter/3oRtJ8p/"
       },
